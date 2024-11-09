@@ -10,6 +10,8 @@ Welcome to my **3D Modeling Portfolio**! This repository showcases my recent wor
   - [🧁 Cupcake Model](#-cupcake-model)
   - [🍷 Wine Glass](#-wine-glass)
   - [🏮 Japanese Lantern](#-japanese-lantern)
+  - [🌪️ Sci-Fi Wind Turbine](#-japanese-lantern)
+
 - [💻 Software & Tools](#-software--tools)
 - [👀 How to View the Models](#-how-to-view-the-models)
 - [📬 Contact](#-contact)
@@ -74,6 +76,31 @@ This model was inspired by traditional Japanese stone lanterns and combines both
 This model was a fantastic exercise in **UV unwrapping** and hand-painting textures. 🌌
 
 ---
+
+Here’s an updated README section incorporating the Plasticity project, “Sci-Fi Wind,” with the images you provided.
+
+---
+
+### 🌪️ Sci-Fi Wind Turbine
+**File:** `scifyWind.plasticity`
+
+![Screenshot 2024-10-29 174930](https://github.com/user-attachments/assets/a86a2956-4971-4a0d-93f1-9c9e0f2f3fd6)
+
+
+![Screenshot 2024-10-29 175853](https://github.com/user-attachments/assets/39501b24-3796-4ab3-9050-9a2069534271)
+
+
+![Screenshot 2024-10-29 175906](https://github.com/user-attachments/assets/43067b1e-2c83-4ae3-bf82-12477ff49eaa)
+
+
+The Sci-Fi Wind Turbine model is a futuristic turbine concept designed using **Plasticity**. The model showcases intricate details and structured design, blending hard-surface modeling techniques with sci-fi aesthetics. Here’s a breakdown of the approach:
+
+- **🔧 Modeling Precision:** The turbine’s structure uses precise extrusions and solid objects to form the intricate fan blade design, capturing a sci-fi-inspired industrial feel.
+- **🔩 Surface Details:** Various extrusions and cuts add depth, creating a layered effect that enhances the turbine’s mechanical complexity.
+- **📐 Structural Symmetry:** The model focuses on radial symmetry, essential for turbine designs, ensuring both visual appeal and functionality.
+- **🎨 Shading and Visualization:** By switching between solid and wireframe views, I explored the turbine’s inner structures, highlighting the meticulous detailing within each layer.
+
+This project was a fantastic exploration of Plasticity’s capabilities in creating complex mechanical assets for futuristic environments.
 
 ## 💻 Software & Tools
 
